@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">assignment1</string>
+    <string name="fallbutton">Fall</string>
+    <string name="climbbutton">Climb</string>
+    <string name="resetbutton">reset</string>
+    <string name="gameover">Game Over</string>
+    <string name="win">You Win!</string>
 </resources>
+
